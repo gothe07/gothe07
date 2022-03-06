@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gothe07
-- 👀 I’m interested in civil structural engineering.
-- 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on engineers who are using python in their projects.
+- 👀 I’m trying to become an iOS Devoloper.
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on new projects on behalf of iOS application development.
 - 📫 How to reach me tarik.ateser13@gmail.com
 
 <!---
